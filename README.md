@@ -1,7 +1,26 @@
 # Automatic annotation of classical languages: Greek and Latin
 
-### Welcome!
+## Welcome
 
-To begin the exercise, please **launch Binder** by clicking on this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WoPoss-project/automatic_annotation/HEAD)
+Here you have two Jupyter Notebooks with an example on how to automatically annotate a text in Latin and Ancient Greek. 
 
-It will take a few minutes to load. When it is finished, just click on the `ipynb` file you want to work with: either the Latin exercise or the Greek one.
+## Instructions
+
+- Download the repository (click on the green button that says “Code”: clone the repository or download the zip file and unzip the folder)
+
+- Install Jupyter
+	- Open the terminal and run:
+	```
+	pip install notebook
+	```
+	- For more information see: https://jupyter.org/install 
+
+- Open the terminal, and go to the folder that contains the Jupyter Notebooks. E.g.:
+```
+cd Desktop/GitHub/automatic_annotation
+``` 
+- Run the notebook:
+```
+jupyter notebook
+```
+- This will open a tab in your default browser and you can see there the files of the folder including the two notebooks. Open the notebook you want to run by clicking on it.
